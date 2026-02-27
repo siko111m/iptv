@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula" group-title="Marruecos",Al Aoula
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia" group-title="Marruecos",Al Maghribia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" group-title="Marruecos",Arryadia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-name="Assadissa" group-title="Marruecos",Assadissa
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa_snrt/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-name="Tamazight TV" group-title="Marruecos",Tamazight TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_snrt/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="Laayoune.ma" tvg-name="Laayoune TV" group-title="Marruecos",Laayoune TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/laayoune_snrt/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M Monde" group-title="Marruecos",2M Monde
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TV.ma" tvg-name="Medi 1 TV" group-title="Marruecos",Medi 1 TV
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
